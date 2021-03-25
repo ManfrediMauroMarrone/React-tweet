@@ -1,0 +1,18 @@
+.tweet {
+  background-color: rgb(55, 189, 178);
+  max-width: 200px;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 5px;
+  .tweetbutton {
+    background: white;
+    border: 2px solid black;
+    margin-right: 3px;
+  }
+}
+
+.like {
+  background: #f8e859;
+  border: 2px solid black;
+  margin-right: 3px;
+}
